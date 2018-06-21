@@ -1,0 +1,14 @@
+/* Background colour */
+.background-white {
+
+  background-color: #fff;
+  height: inherit;
+  width: inherit;
+}
+
+/* Border radius */
+
+.border-radius-5px {
+
+  border-radius: 5px;
+}

@@ -1,0 +1,39 @@
+body {
+  padding: 0px;
+  margin: 0px;
+}
+
+.test-box {
+  background-color: #444;
+}
+
+/* Floats */
+
+.float-right{
+
+  float: right;
+}
+
+/* Vertical Heights */
+
+.vertical-h-10 {
+
+  height: 10vh;
+  width: auto;
+}
+
+.vertical-h-80 {
+
+  height: 80vh;
+  width: auto;
+}
+
+.position-fixed {
+
+  position: fixed;
+}
+
+.margin-full-10px {
+
+  margin: 10px;
+}
