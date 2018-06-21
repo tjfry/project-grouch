@@ -1,0 +1,76 @@
+/* Font imports */
+
+@import url('https://fonts.googleapis.com/css?family=Lato');
+
+/* Font sizes/weights */
+
+.lato-14-500 {
+  font-family: 'Lato';
+  font-weight: 500;
+  font-size: 14px;
+}
+
+.lato-14-700 {
+  font-family: 'Lato';
+  font-weight: 700;
+  font-size: 14px;
+}
+
+.lato-22-700 {
+  font-family: 'Lato';
+  font-weight: 500;
+  font-size: 22px;
+}
+
+.lato-50-700 {
+  font-family: 'Lato';
+  font-weight: 700;
+  font-size: 50px;
+}
+
+.lato-70-700 {
+  font-family: 'Lato';
+  font-weight: 700;
+  font-size: 70px;
+}
+
+.lato-82-600 {
+  font-family: 'Lato';
+  font-weight: 600;
+  font-size: 82px;
+}
+
+.lato-150-800 {
+  font-family: 'Lato';
+  font-weight: 800;
+  font-size: 150px;
+}
+
+/* Font colours */
+
+.color-green {
+
+  color: #06B397;
+}
+
+.color-white {
+
+  color: #fff;
+}
+
+/* Font alignment */
+
+.font-centered {
+
+  text-align: center;
+}
+
+.font-right {
+
+  text-align: right;
+}
+
+.font-left {
+
+  text-align: left;
+}

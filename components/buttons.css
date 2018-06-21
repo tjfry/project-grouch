@@ -1,0 +1,63 @@
+/* Green Outlined */
+
+.button-outlined-green-sm {
+
+  /*Button styling*/
+  width: 150px;
+  height: auto;
+  padding: 10px;
+  border: solid 2px #06B397;
+  border-radius: 100px;
+}
+
+.button-outlined-green-md {
+
+  /*Button styling*/
+  width: 200px;
+  height: auto;
+  padding: 10px;
+  border: solid 2px #06B397;
+  border-radius: 100px;
+}
+
+
+/* Green solid */
+
+button-solid-green-sm {
+
+  /*Button styling*/
+  width: 150px;
+  height: auto;
+  padding: 10px;
+  background-color: #06B397;
+  border-radius: 100px;
+}
+
+.button-solid-green-md {
+
+  /*Button styling*/
+  width: 200px;
+  height: auto;
+  padding: 10px;
+  background-color: #06B397;
+  border-radius: 100px;
+  box-shadow: 0px 0px 0px #ccc;
+
+  /* Text styles*/
+  text-align: center;
+
+  /*Animation styles*/
+  -webkit-transition: box-shadow 0.5s;
+  transition: box-shadow 0.5s;
+}
+
+.button-solid-green-md:hover {
+
+  /*Button styling*/
+  box-shadow: 0px 0px 20px #B9B9B9;
+  background-color: #05836E;
+
+  /*Animation styles*/
+  -webkit-transition: box-shadow 0.3s;
+  transition: box-shadow 0.3s;
+}
